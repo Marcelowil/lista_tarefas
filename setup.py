@@ -14,7 +14,7 @@ setup(
     description="Lista de tarefas",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="github.com/Marcelowil/lista_tarefas"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.11.4',
