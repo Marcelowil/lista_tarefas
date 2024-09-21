@@ -2,13 +2,15 @@
 
 Description. 
 The package lista_tarefas is used to:
-	tarefas:
-		- adicionar_tarefa
-		- listar_tarefas
-		- excluir_tarefa
-		- editar_tarefa
-	program:
-		- menu
+
+tarefas: 
+- adicionar_tarefa
+- listar_tarefas
+- excluir_tarefa
+- editar_tarefa
+
+ program:
+- menu
 
 ## Installation
 
